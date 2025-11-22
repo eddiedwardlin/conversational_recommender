@@ -1,6 +1,6 @@
 # conversational_recommender
 
-Conversational recommder comparison study.
+Conversational recommender comparison study.
 
 ### Instructions
 1. Install Ollama (https://ollama.com)
